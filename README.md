@@ -1,4 +1,4 @@
-# rationalseriesnotes
+# Rational Series Notes
 
 ### Problem Set 1
 
