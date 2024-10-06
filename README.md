@@ -1,5 +1,7 @@
 # Rational Series Notes
 
+These problem sets should allow you to explore the rest of the book freely.
+
 ### Problem Set 1
 
 1.1.1
